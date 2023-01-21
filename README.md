@@ -21,7 +21,7 @@ You need to merge equal cells with keyboard arrows until you get 2048.
 
 # How to launch a project:
 1. Clone the repo.
-  - git clone the-link-from-your-forked-repo.
+  - git clone the-link-from-your-forked-repo
 2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry).
   - node -v
 3. Run VSCode and open the project folder.
