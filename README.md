@@ -4,7 +4,7 @@
 # Game rules
 Game 2048 is written in pure JavaScript.
 In this game you need to combine numbered tiles in order to gain a higher numbered tile.
-You need to merge equal cells with keyboard arrows until you won't get 2048.
+You need to merge equal cells with keyboard arrows until you get 2048.
 
 # Implemented tasks:
 1) The game field is 4 x 4
