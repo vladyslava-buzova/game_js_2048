@@ -7,12 +7,12 @@ In this game you need to combine numbered tiles in order to gain a higher number
 You need to merge equal cells with keyboard arrows until you get 2048.
 
 # Implemented tasks:
-1) The game field is 4 x 4
+1) The game field is 4 x 4.
 2) Each cell can be empty or contain one of the numbers: 2, 4, 8 ... 2^n
-3) The player can move cells with keyboard arrows
+3) The player can move cells with keyboard arrows.
 4) All the numbers should be moved in the selected direction until all empty cells are filled in
-   - 2 equal cells should be merged into a doubled number
-5) The move is possible if at least one cell is changed after the move
+   - 2 equal cells should be merged into a doubled number.
+5) The move is possible if at least one cell is changed after the move.
 6) When 2048 value is displayed in any cell, win message should be shown.
 7) The `game over` message should be shown if there are no more available moves.
 8) Hide start message when game starts.
