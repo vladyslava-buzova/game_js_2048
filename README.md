@@ -1,5 +1,5 @@
 # Game 2048 in JavaScript
- - [DEMO LINK](https://vladyslava-buzova.github.io/game_js_2048)
+ - [DEMO LINK](https://vladyslava-buzova.github.io/game_js_2048/)
 
 # Game rules
 Game 2048 is written in pure JavaScript.
@@ -22,7 +22,7 @@ You need to merge equal cells with keyboard arrows until you get 2048.
 # How to launch a project:
 1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
-2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)
+2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry).
   - node -v
 3. Run VSCode and open the project folder.
 4. Open a terminal in the project folder.
