@@ -14,7 +14,7 @@ You need to merge equal cells with keyboard arrows until you get 2048.
    - 2 equal cells should be merged into a doubled number.
 5) The move is possible if at least one cell is changed after the move.
 6) When 2048 value is displayed in any cell, win message should be shown.
-7) The `game over` message should be shown if there are no more available moves.
+7) The `game over` message should be shown if there are no more available moves
 8) Hide start message when game starts.
 9) Change the `Start` button to `Restart` after the first move.
 10) Increase score with each move. The score should be increased by the sum of all merged cells.
