@@ -1,12 +1,12 @@
-# Game 2048 in JavaScript
+Game 2048 in JavaScript
  - [DEMO LINK](https://vladyslava-buzova.github.io/game_js_2048/)
 
-# Game rules
+Game rules
 Game 2048 is written in pure JavaScript.
 In this game you need to combine numbered tiles in order to gain a higher numbered tile.
 You need to merge equal cells with keyboard arrows until you won't get 2048.
 
-# Implemented tasks:
+Implemented tasks:
 1) The game field is 4 x 4
 2) Each cell can be empty or contain one of the numbers: 2, 4, 8 ... 2^n
 3) The player can move cells with keyboard arrows
@@ -19,7 +19,7 @@ You need to merge equal cells with keyboard arrows until you won't get 2048.
 9) Change the `Start` button to `Restart` after the first move.
 10) Increase score with each move. The score should be increased by the sum of all merged cells.
 
-# How to launch a project:
+How to launch a project:
 1. Clone the repo.
   - git clone the-link-from-your-forked-repo.
 2. Chech your Node.js version (Recommended Node.js 14 to run the project corectry)
