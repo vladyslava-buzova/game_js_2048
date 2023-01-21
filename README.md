@@ -1,5 +1,5 @@
 # Game 2048 in JavaScript
- - [DEMO LINK](https://vladyslava-buzova.github.io/game_js_2048/)
+ - [DEMO LINK](https://vladyslava-buzova.github.io/game_js_2048)
 
 # Game rules
 Game 2048 is written in pure JavaScript.
